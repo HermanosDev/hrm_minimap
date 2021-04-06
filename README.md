@@ -1,2 +1,8 @@
-# LSPD_Plainte
-Script for FiveM  - LSPD Plainte - in Lua
+# rMinimap
+
+### Require:
+- FiveM Server
+
+### Screenshot:
+
+![1](https://i.imgur.com/UaYJl84.png)
