@@ -1,2 +1,2 @@
-# rMinimap
-Script FiveM - Remove Health Bar &amp; Armor Bar
+# LSPD_Plainte
+Script for FiveM  - LSPD Plainte - in Lua
