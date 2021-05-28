@@ -1,4 +1,4 @@
-# rMinimap
+# hrm_minimap
 
 ### Require:
 - FiveM Server
